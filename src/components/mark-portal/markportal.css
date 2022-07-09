@@ -1,0 +1,15 @@
+.sub-heading {
+    text-align: left;
+    background-color: darkseagreen;
+    font-weight: 500;
+}
+
+.table-container {
+    height: 600px;
+    overflow: auto;
+}
+
+.sticky-header {
+    position: sticky;
+    top: 0;
+}

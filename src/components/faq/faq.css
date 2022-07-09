@@ -1,0 +1,7 @@
+.faq-accordion {
+    text-align: left;
+}
+
+.active-accordion {
+    color: green;
+}

@@ -1,0 +1,63 @@
+.main-container {
+}
+
+.main-image {
+    width: 100%;
+    display: block;
+}
+
+.carousel-caption {
+    position: relative;
+    bottom: 20px;
+    z-index: 10;
+    right: 0;
+    left: 0;
+    color: #021052dd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    height: 100px;
+}
+
+.carousel-control-prev:hover, .carousel-control-prev:focus, .carousel-control-prev:active, .carousel-control-prev:visited, .carousel-control-prev:focus-within, .carousel-control-prev:focus-visible, .carousel-control-prev:target{
+    border: none;
+    box-shadow: none;
+}
+
+.carousel-control-prev-icon:hover, .carousel-control-prev-icon:focus, .carousel-control-prev-icon:active, .carousel-control-prev-icon:visited, .carousel-control-prev-icon:focus-within, .carousel-control-prev-icon:focus-visible, .carousel-control-prev-icon:target{
+    border: none;
+    box-shadow: none;
+}
+
+.carousel-control-next:hover, .carousel-control-next:focus, .carousel-control-next:active, .carousel-control-next:visited, .carousel-control-next:focus-within, .carousel-control-next:focus-visible, .carousel-control-next:target{
+    border: none;
+    box-shadow: none;
+}
+
+.carousel-control-next-icon:hover, .carousel-control-next-icon:focus, .carousel-control-next-icon:active, .carousel-control-next-icon:visited, .carousel-control-next-icon:focus-within, .carousel-control-next-icon:focus-visible, .carousel-control-next-icon:target{
+    border: none;
+    box-shadow: none;
+}
+
+.or-label {
+    margin-right: 20px;
+    margin-left: 10px;
+    position: relative;
+    vertical-align: sub;
+}
+
+.mark-name {
+    color: green;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button-subtitle {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.product {}
+
+.pilot {}
+

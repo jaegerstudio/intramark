@@ -1,0 +1,58 @@
+.header-main {
+    padding: 16px 6%;
+}
+
+
+.logo-name {
+    color: #ffffffdd;
+}
+
+.logo-image {
+    width: 226px;
+    height: 64px;
+}
+
+.logo-name-small {
+    color: #FFFFFF;
+    font-size: 1.7rem;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-position {
+    position: relative;
+    left: 39px;
+}
+
+.main-position {
+    position: relative;
+    left: 73px;
+}
+
+.button-group {
+    height: fit-content;
+    display: flex;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.navbar-nav a:hover, .navbar-nav a:active {
+    text-decoration: none;
+}
+
+.logo-end-name {
+    color: green !important;
+    font-weight: bold;
+}
+
+.sub-logo {
+    font-size: 13px;
+    font-style: italic;
+    display: block;
+}

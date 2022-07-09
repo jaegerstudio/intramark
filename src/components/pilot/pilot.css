@@ -1,0 +1,41 @@
+.pilot-container {}
+
+.mark-datapoint {
+    border-left: 1px dashed #021052dd;
+    border-right: 1px dashed #021052dd;
+}
+
+.pilot-list {
+    text-align: left;
+    margin-top: 15px;
+}
+
+.equity-symbol {
+    text-align: justify;
+    font-size: 12px;
+}
+
+.form-check-label {
+    margin-top: 1px;
+}
+
+.pilot-form {
+    text-align: left;
+}
+
+.submit-btn {
+    text-align: center;
+}
+
+.was-validated .form-check-input:valid ~ .form-check-label, .form-check-input.is-valid ~ .form-check-label {
+    color: #212529;
+}
+
+.heading-sup {
+    top: -1rem;
+}
+
+.success-box {
+    background: rgba(4, 75, 91, 0.1);
+    border-radius: 20px;
+}

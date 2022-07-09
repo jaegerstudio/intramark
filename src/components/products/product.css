@@ -1,0 +1,39 @@
+.products-heading{
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 3rem;;
+}
+
+.equity-selector{
+    margin: 36px 0;
+    justify-content: center;
+}
+
+.product-container {
+}
+
+.select-info {
+    text-align: left;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.product-list {
+    text-align: left;
+    margin-top: 15px;
+}
+
+.product-icon {
+    margin-top: 15px;
+}
+
+.product-type {
+    border-left: 1px dashed #021052dd;
+    border-right: 1px dashed #021052dd;
+}
+
+.example-disclosure {
+    font-size: 12px;
+    text-align: left;
+}
